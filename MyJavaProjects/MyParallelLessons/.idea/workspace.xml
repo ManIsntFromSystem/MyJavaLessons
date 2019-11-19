@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72f3aa15-98f8-4cae-8b4f-49315b1e9f7e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TVLeV6UdeDrUujd1nyFtY74SSI" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="E:/ASProjects/MyApplication" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="java FJExperiment 1 1000" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AtomicDemo">
+    <configuration name="AtomicDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myExecutors.AtomicDemo" />
+      <module name="MyParallelLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myExecutors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myExecutors.CallableDemo" />
+      <module name="MyParallelLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myExecutors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FJExperiment" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myExecutors.FJExperiment" />
+      <module name="MyParallelLessons" />
+      <option name="PROGRAM_PARAMETERS" value="2 1000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myExecutors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForkJoinDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myExecutors.ForkJoinDemo" />
+      <module name="MyParallelLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myExecutors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myExecutors.LockDemo" />
+      <module name="MyParallelLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myExecutors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecurTaskTaskDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myExecutors.RecurTaskTaskDemo" />
+      <module name="MyParallelLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myExecutors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FJExperiment" />
+      <item itemvalue="Application.AtomicDemo" />
+      <item itemvalue="Application.CallableDemo" />
+      <item itemvalue="Application.ForkJoinDemo" />
+      <item itemvalue="Application.LockDemo" />
+      <item itemvalue="Application.RecurTaskTaskDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LockDemo" />
+        <item itemvalue="Application.RecurTaskTaskDemo" />
+        <item itemvalue="Application.ForkJoinDemo" />
+        <item itemvalue="Application.CallableDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
